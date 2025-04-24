@@ -1,0 +1,452 @@
+[
+  {
+      "id": 1,
+      "title": "2X1 MATE CAMIONERO DE ALGARROBO",
+      "currentPrice": 38900,
+      "oldPrice": null,
+      "description": "Oferta especial en mates de algarrobo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/8ae843f6aa91ed5909ebfb6efef65712c02c34aaa30311b33541ce7eda69dc2719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 2,
+      "title": "MATE CAMIONERO DE ALGARROBO PERSONALIZADO",
+      "currentPrice": 29990,
+      "oldPrice": 49983.34,
+      "description": "Mate camionero de algarrobo con personalización disponible",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/8402bf563c5451e2cfe30791904333e2308ab4fc2a44078af0394d102e0d58ea19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 3,
+      "title": "MATE CAMIONERO PREMIUM PERSONALIZADO",
+      "currentPrice": 44900,
+      "oldPrice": 64143,
+      "description": "Mate camionero premium con opción de personalización",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/c1e79259a9fecf541729ffad39b7d21563c1c4a7b2cfc47630090fbc8216229e19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 4,
+      "title": "MATE IMPERIAL ALGARROBO RÚSTICO",
+      "currentPrice": 44990,
+      "oldPrice": 69216,
+      "description": "Mate imperial de algarrobo con acabado rústico",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/ee06090a8cf2776a4e3d01b66989245ff4d144f90a35999ed3af1aff1507963719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 5,
+      "title": "2x1 MATE CAMIONERO DE CALABAZA PREMIUM",
+      "currentPrice": 57120,
+      "oldPrice": null,
+      "description": "Oferta especial en mates de calabaza premium",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/ebb90ce6b85c8e7ec8ee12f0452b2c0878af4ff1dc2f1a7c0ab75e54d6e17a6719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 6,
+      "title": "Mate Imperial PREMIUM (guarda ABSTRACTA)",
+      "currentPrice": 64000,
+      "oldPrice": 75295,
+      "description": "Mate imperial premium con guarda abstracta",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/736501fac765452ef414fbd21340f75566c956b4b2d832fcd8c0ffbe364bde7b19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 7,
+      "title": "MATE CAMIONERO DE ALGARROBO",
+      "currentPrice": 24990,
+      "oldPrice": 41650,
+      "description": "Mate camionero de algarrobo en oferta",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/1dfc9ea7d71a4dafaf93691cbf438467df067af300d665d77507465bce396eab19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 8,
+      "title": "SET CAMIONERO DE ALGARROBO + TERMO MEDIA MANIJA + BOMBILLA",
+      "currentPrice": 49990,
+      "oldPrice": 62488,
+      "description": "Set completo de mate camionero con termo y bombilla",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/3945f6308631a40c38fb6eccfa5333039a825f300b1cf8cbb5bce616ce4f145e19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 9,
+      "title": "MATE IMPERIAL ALGARROBO ENCERADO",
+      "currentPrice": 44990,
+      "oldPrice": 69216,
+      "description": "Mate imperial de algarrobo encerado para mejor acabado",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/6be76d77c736b828f00ffcff994d3f98a8ad491ffbfd73cce1982cf9a52eff4119762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 10,
+      "title": "MATE TORPEDO PREMIUM",
+      "currentPrice": 38990,
+      "oldPrice": 51990,
+      "description": "Mate torpedo premium con diseño exclusivo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/7bbd88a57bd3f2f5109e2cfbae7e252a0f242371126c3dc62979e2e356f19ab619762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 11,
+      "title": "MATE IMPERIAL RÚSTICO PERSONALIZADO",
+      "currentPrice": 49990,
+      "oldPrice": 76908,
+      "description": "Mate imperial rústico con opción de personalización",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/0e53dd4e63daee5c0b81e6524527b4f14da40867409bcefdad7d1edcf8efbb5419762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 12,
+      "title": "MATE IMPERIAL PREMIUM PERSONALIZADO",
+      "currentPrice": 69000,
+      "oldPrice": 81177,
+      "description": "Mate imperial premium con personalización exclusiva",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/bf713c33493fd8c1bf2ff036f99c922c674830b64564d41fd44f63eeacec9f9019762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 13,
+      "title": "MATE CRIOLLO",
+      "currentPrice": 35990,
+      "oldPrice": 44987.50,
+      "description": "Mate criollo tradicional",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/e4c0107b87aea8127c28d80b7294d0dc73ca8dd52fb85395665206427e02cfb419762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 14,
+      "title": "MATE DE CÉRAMICA MATEANDO BLANCO",
+      "currentPrice": 39900,
+      "oldPrice": 49875,
+      "description": "Mate de cerámica color blanco",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/a2027508b347fff8b78d4f00a11c78ea83f358d683e1b71072703d82abb87bad19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 15,
+      "title": "SET MATERO MEGACOMPLETO MATEANDO IMPERIAL",
+      "currentPrice": 155990,
+      "oldPrice": null,
+      "description": "Set matero completo con mate imperial",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/68cfc45867e93f66930233ce46e4cba235d7a5030a5c6418dc4683ffa4ef1efc19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 16,
+      "title": "MATE IMPERIAL DELUXE",
+      "currentPrice": 79990,
+      "oldPrice": 99988,
+      "description": "Mate imperial deluxe de alta calidad",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/db40dbff11da303aa976cd297f69bb89ecda14cc41edbf543cca6dd3f87fc33d19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 17,
+      "title": "MATE ACERO MATEANDO NEGRO",
+      "currentPrice": 24990,
+      "oldPrice": 34990,
+      "description": "Mate de acero color negro",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/c5bd593ac30fc884cc14ae79207c435b05b26d01f372fe84c316c5974c124d8719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 18,
+      "title": "MATE ACERO MATEANDO BLANCO",
+      "currentPrice": 24990,
+      "oldPrice": 34990,
+      "description": "Mate de acero color blanco",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/f621d2adc71e9bc560413d4cfa839281864ba03eb866ce6d119ce40460f3a18919762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 19,
+      "title": "MATE ACERO MATEANDO ROSA",
+      "currentPrice": 24990,
+      "oldPrice": 34990,
+      "description": "Mate de acero color rosa",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/6d73db6faeeb0ccf8a2266448f185638d33927ca788dd1d89daf887813cc7ad619762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 20,
+      "title": "MATE ACERO LUXURY + BOMBILLA DE REGALO",
+      "currentPrice": 44900,
+      "oldPrice": 59867,
+      "description": "Mate de acero luxury con bombilla de regalo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/b0892499c879ae5346391e01d9747871b1a14228e0881d4464ba3ec398e7480c19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 21,
+      "title": "MATE IMPERIAL DELUXE CROCO NEGRO",
+      "currentPrice": 99834,
+      "oldPrice": 59900,
+      "description": "Oferta especial en mate de acero inoxidable con diseño exclusivo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/b17cc7985bb475e079add89e0eb236574f1539d3b7d8500533efa06d31f87fd619762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 22,
+      "title": "SET MEGACOMPLETO OUTDOOR -CON MATE ACÉRO TÉRMICO-",
+      "currentPrice": 145990,
+      "oldPrice": 123990,
+      "description": "Set completo para el mate de acero con termo térmico y bombilla",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/cf7bda029a62aab3c7460dc79c3a369e0942645e2a21d7731357aa444c807ee419762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 23,
+      "title": "MATE CAMIONERO URUGUAYO PREMIUM",
+      "currentPrice": 57129,
+      "oldPrice": 39990,
+      "description": "Mate camionero de diseño tradicional uruguayo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/640a7d9156761829cbe978ff38b32af3a44a0cbbb9f93dd8191ddc1ff8ed980019762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 24,
+      "title": "2X1 MATE CAMIONERO DE ALGARROBO",
+      "currentPrice": 38900,
+      "oldPrice": null,
+      "description": "Oferta especial en mates de algarrobo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/8ae843f6aa91ed5909ebfb6efef65712c02c34aaa30311b33541ce7eda69dc2719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 25,
+      "title": "MATE CAMIONERO DE ALGARROBO PERSONALIZADO",
+      "currentPrice": 49983.34,
+      "oldPrice": 29990,
+      "description": "Mate de algarrobo personalizado con detalles exclusivos",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/8402bf563c5451e2cfe30791904333e2308ab4fc2a44078af0394d102e0d58ea19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 26,
+      "title": "MATE CAMIONERO PREMIUM PERSONALIZADO",
+      "currentPrice": 64143,
+      "oldPrice": 44900,
+      "description": "Mate premium de algarrobo con personalización",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/c1e79259a9fecf541729ffad39b7d21563c1c4a7b2cfc47630090fbc8216229e19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 27,
+      "title": "MATE IMPERIAL ALGARROBO RÚSTICO",
+      "currentPrice": 69216,
+      "oldPrice": 44990,
+      "description": "Mate imperial de algarrobo rústico con acabado natural",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/ee06090a8cf2776a4e3d01b66989245ff4d144f90a35999ed3af1aff1507963719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 28,
+      "title": "2x1 MATE CAMIONERO DE CALABAZA PREMIUM",
+      "currentPrice": 57120,
+      "oldPrice": null,
+      "description": "Oferta 2x1 en mates de calabaza premium",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/ebb90ce6b85c8e7ec8ee12f0452b2c0878af4ff1dc2f1a7c0ab75e54d6e17a6719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 29,
+      "title": "Mate Imperial PREMIUM (guarda ABSTRACTA)",
+      "currentPrice": 75295,
+      "oldPrice": 64000,
+      "description": "Mate Imperial de diseño exclusivo, guarda en estilo abstracto",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/736501fac765452ef414fbd21340f75566c956b4b2d832fcd8c0ffbe364bde7b19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 30,
+      "title": "MATE CAMIONERO DE ALGARROBO",
+      "currentPrice": 41650,
+      "oldPrice": 24990,
+      "description": "Mate camionero de algarrobo de alta calidad",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/1dfc9ea7d71a4dafaf93691cbf438467df067af300d665d77507465bce396eab19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 31,
+      "title": "SET CAMIONERO DE ALGARROBO + TERMO MEDIA MANIJA + BOMBILLA",
+      "currentPrice": 49990,
+      "oldPrice": 62488,
+      "description": "Set completo con termo y bombilla en algarrobo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/3945f6308631a40c38fb6eccfa5333039a825f300b1cf8cbb5bce616ce4f145e19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 32,
+      "title": "MATE IMPERIAL ALGARROBO ENCERADO",
+      "currentPrice": 44990,
+      "oldPrice": 69216,
+      "description": "Mate imperial de algarrobo encerado",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/6be76d77c736b828f00ffcff994d3f98a8ad491ffbfd73cce1982cf9a52eff4119762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 33,
+      "title": "MATE TORPEDO PREMIUM",
+      "currentPrice": 38990,
+      "oldPrice": 51990,
+      "description": "Mate torpedo de alta calidad",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/7bbd88a57bd3f2f5109e2cfbae7e252a0f242371126c3dc62979e2e356f19ab619762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 34,
+      "title": "MATE IMPERIAL RÚSTICO PERSONALIZADO",
+      "currentPrice": 49990,
+      "oldPrice": 76908,
+      "description": "Mate rústico con opción de personalización",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/0e53dd4e63daee5c0b81e6524527b4f14da40867409bcefdad7d1edcf8efbb5419762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 35,
+      "title": "MATE IMPERIAL PREMIUM PERSONALIZADO",
+      "currentPrice": 69000,
+      "oldPrice": 81177,
+      "description": "Mate premium de algarrobo con opción de personalización",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/bf713c33493fd8c1bf2ff036f99c922c674830b64564d41fd44f63eeacec9f9019762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 36,
+      "title": "MATE CRIOLLO",
+      "currentPrice": 35990,
+      "oldPrice": 44987.5,
+      "description": "Mate criollo de calidad superior",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/e4c0107b87aea8127c28d80b7294d0dc73ca8dd52fb85395665206427e02cfb419762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 37,
+      "title": "MATE DE CÉRAMICA MATEANDO BLANCO",
+      "currentPrice": 39900,
+      "oldPrice": 49875,
+      "description": "Mate de cerámica blanco para disfrutar el mate",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/a2027508b347fff8b78d4f00a11c78ea83f358d683e1b71072703d82abb87bad19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 38,
+      "title": "SET MATERO MEGACOMPLETO MATEANDO IMPERIAL",
+      "currentPrice": 155990,
+      "oldPrice": null,
+      "description": "Set completo para el mate con todos los accesorios",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/68cfc45867e93f66930233ce46e4cba235d7a5030a5c6418dc4683ffa4ef1efc19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 39,
+      "title": "MATE IMPERIAL DELUXE",
+      "currentPrice": 79990,
+      "oldPrice": 99988,
+      "description": "Mate deluxe con diseño exclusivo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/db40dbff11da303aa976cd297f69bb89ecda14cc41edbf543cca6dd3f87fc33d19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 40,
+      "title": "MATE ACERO MATEANDO NEGRO",
+      "currentPrice": 24990,
+      "oldPrice": 34990,
+      "description": "Mate de acero en color negro, elegante y resistente",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/c5bd593ac30fc884cc14ae79207c435b05b26d01f372fe84c316c5974c124d8719762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 41,
+      "title": "MATE ACERO MATEANDO BLANCO",
+      "currentPrice": 34990,
+      "oldPrice": 24990,
+      "description": "Oferta especial en mate de acero blanco",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/f621d2adc71e9bc560413d4cfa839281864ba03eb866ce6d119ce40460f3a18919762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 42,
+      "title": "MATE ACERO MATEANDO ROSA",
+      "currentPrice": 34990,
+      "oldPrice": 24990,
+      "description": "Oferta especial en mate de acero rosa",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/6d73db6faeeb0ccf8a2266448f185638d33927ca788dd1d89daf887813cc7ad619762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 43,
+      "title": "MATE ACERO LUXURY + BOMBILLA DE REGALO",
+      "currentPrice": 59867,
+      "oldPrice": 44900,
+      "description": "Set de mate de acero luxury con bombilla de regalo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/b0892499c879ae5346391e01d9747871b1a14228e0881d4464ba3ec398e7480c19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 44,
+      "title": "MATE ACERO LUXURY BLANCO + BOMBILLA DE REGALO",
+      "currentPrice": 59867,
+      "oldPrice": 44900,
+      "description": "Set de mate de acero blanco luxury con bombilla de regalo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/aad737de55411f5b37ef489b36ef327cfd2646cc7f9b4928a46b019e00e4a15c19762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 45,
+      "title": "MATE IMPERIAL DELUXE CROCO NEGRO",
+      "currentPrice": 99834,
+      "oldPrice": 59900,
+      "description": "Mate imperial deluxe croco negro",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/b17cc7985bb475e079add89e0eb236574f1539d3b7d8500533efa06d31f87fd619762.jpg",
+      "category": "mates"
+  },
+  {
+      "id": 46,
+      "title": "SET MEGACOMPLETO OUTDOOR -CON MATE ACÉRO TÉRMICO-",
+      "currentPrice": 145990,
+      "oldPrice": 123990,
+      "description": "Set megacompleto outdoor con mate térmico",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/cf7bda029a62aab3c7460dc79c3a369e0942645e2a21d7731357aa444c807ee419762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 47,
+      "title": "MATE CAMIONERO URUGUAYO PREMIUM",
+      "currentPrice": 57129,
+      "oldPrice": 39990,
+      "description": "Mate camionero uruguayo premium",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/640a7d9156761829cbe978ff38b32af3a44a0cbbb9f93dd8191ddc1ff8ed980019762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 48,
+      "title": "MATE IMPERIAL PREMIUM LISO (sin personalización) (guarda manitos)",
+      "currentPrice": 76459,
+      "oldPrice": 64990,
+      "description": "Mate imperial premium liso sin personalización",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/a1e72310d08eb6fa51c6e9fd9f6706bbef4ebfd558e50c5bd64bb32a38a2a3a719762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 49,
+      "title": "TORPEDO CINCELADO",
+      "currentPrice": 84990,
+      "oldPrice": 76990,
+      "description": "Torpedo cincelado de calidad",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/592e15862774c3cfeeddf54e4c4aa8df5c1b186b4033f7678bf39b878a18708d19762.jpeg",
+      "category": "mates"
+  },
+  {
+      "id": 50,
+      "title": "CALABACIN ALPACA CON DIJE + BOMBILLA DE REGALO",
+      "currentPrice": 19990,
+      "oldPrice": null,
+      "description": "Calabacín de alpaca con dije y bombilla de regalo",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/965ad4bdede84ed98f911056012ce408d1e9b2894da4521ab7f2b54a5952e6c519762.jpeg",
+      "category": "mates"
+  }
+]

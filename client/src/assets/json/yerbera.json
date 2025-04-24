@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "YERBERA PREMIUM CUERO",
+        "currentPrice": 34900,
+        "oldPrice": 41059,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/166d065ab60ac6484b58021c45ece73919ec750da99545dd7b3f1963f8322d8f19762.jpg",
+        "category": "yerberos"
+    },
+    {
+        "id": 2,
+        "title": "YERBERA CUERO MARRON SUELA",
+        "currentPrice": 34900,
+        "oldPrice": 41059,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/bee7e9d29904ae19817459e3ec01b30d06439083e7d7229206b63537283a232619762.jpg",
+        "category": "yerberos"
+    },
+    {
+        "id": 3,
+        "title": "YERBERA MARRÓN",
+        "currentPrice": 34900,
+        "oldPrice": 41059,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/b77a68c285e8e36f2a9d98f4d2f8422ca639a2576ee5e02d677014bad119ca6019762.jpg",
+        "category": "yerberos"
+    },
+    {
+        "id": 4,
+        "title": "YERBERA TAMBO",
+        "currentPrice": 19900,
+        "oldPrice": 24900,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/d6a9346a2f596eb0aa04201f50b8caf889a288c0ee5c4d8a2adda0b2246d70e819762.jpeg",
+        "category": "yerberos"
+    }
+]

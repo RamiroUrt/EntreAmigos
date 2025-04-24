@@ -1,0 +1,78 @@
+import { Link } from "react-router-dom";
+import LogoPNG from "../../../../public/img/logo.png";
+import Button from "../../Button/Button";
+import { useLocation } from "react-router-dom";
+import { gsap } from "gsap";
+import { useEffect, useState } from "react";
+import Cart from '../../../assets/svg/cart.svg';
+import CartContainer from "../../cart/CartContainer";
+const Nav = ({ opacity }) => {
+  const location = useLocation();
+
+  const [isMenuOpen, setIsMenuOpen] = useState(false); 
+
+  const [isCartOpen, setIsCartOpen] = useState(false); 
+
+  const [cartItems, setCartItems] = useState([]);
+
+  useEffect(() => {
+    if (location.pathname === "/") {
+      gsap.from(".hero-button-nav", {
+        opacity: 1,
+        stagger: 0.2,
+        ease: "power3.out",
+        fontSize: 25,
+      });
+    }
+  }, [location.pathname]);
+
+  const toggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
+
+  const toggleCart = () => {
+    setIsCartOpen(!isCartOpen);
+  };
+
+
+  
+
+  return (
+    <nav className="nav-bar" style={{ opacity: opacity }}>
+      <div className="nav-section">
+        <div className="nav-logo-nav">
+          <Link to="/">
+            <img src={LogoPNG} alt="Logo" />
+          </Link>
+        </div>
+      <ul className={`nav-list ${isMenuOpen ? "open" : ""}`}>
+        <li className="nav-item">
+          <Button className={"hero-button-nav button-nav"} text="NUESTROS MATES" />
+        </li>
+        <li className="nav-item">
+          <Button className={"hero-button-nav button-nav"} text="NUESTROS COMBOS" />
+        </li>
+        <li className="nav-item">
+          <Button className={"hero-button-nav button-nav"} text="NUESTROS TERMOS" />
+        </li>
+      </ul>
+      <div className="cart-button-contain" onClick={toggleCart}>
+        <img src={Cart} alt="" />
+      </div>
+
+{/*Icon hamburger*/}
+        <button className="hamburger" onClick={toggleMenu}>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+
+      <CartContainer isOpen={isCartOpen}
+      onClose={() => setIsCartOpen(false)} 
+      cartItems={cartItems}/>
+    </nav>
+  );
+};
+
+export default Nav;

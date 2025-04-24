@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "title": "PORTA MATE RUTERO CUERO",
+        "currentPrice": 32900,
+        "oldPrice": 41125,
+        "description": "Oferta especial en portamates de cuero",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/e9918ab84b588ee71b57dae3e7bea0dbf6bec75481b4fe21e3b89e36e6a1931019762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 2,
+        "title": "PORTAMATE RUTERO SUELA",
+        "currentPrice": 32900,
+        "oldPrice": 41125,
+        "description": "Oferta especial en portamates de suela",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/0332b48add1b924f30453ae6a35488057802f3d7374b4d5c6b9968104a0608b119762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 3,
+        "title": "PORTAMATE RUTERO NEGRO",
+        "currentPrice": 32900,
+        "oldPrice": 41125,
+        "description": "Oferta especial en portamates negros",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/26479ff16d042e4ed526a2ac5c94e09180ee45b5d06dd4b844bd6ece5b4c54cb19762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 4,
+        "title": "CAJA DE REGALO",
+        "currentPrice": 9990,
+        "oldPrice": 11990,
+        "description": "Oferta especial en cajas de regalo",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/70485a14ea99e88a5434c121258f93caf06b5c7a289f5be75a741a8b8d66ed7219762.jpeg",
+        "category": "accesorios"
+    },
+    {
+        "id": 5,
+        "title": "MATEPA DE ALPACA PREMIUM -TAPA ANTIVIENTO-",
+        "currentPrice": 16990,
+        "oldPrice": 20990,
+        "description": "Oferta especial en matepas de alpaca",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/639c3e8a9a88bba6b62cdc6ba4c2f5033de18a43082eec4a86f8cba94fa5c37919762.jpeg",
+        "category": "accesorios"
+    },
+    {
+        "id": 6,
+        "title": "VERTEDOR DE YERBA MATEANDO",
+        "currentPrice": 20990,
+        "oldPrice": 23990,
+        "description": "Oferta especial en vertedores de yerba",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/e3bb5606b746115d365240e452ba3dce3d8e5c84c723b78a332d8797e3b6313119762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 7,
+        "title": "KIT: TAPAMATE Y TAPABOMBI",
+        "currentPrice": 16900,
+        "oldPrice": 21125,
+        "description": "Oferta especial en kits de tapamate y tapabombi",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/f819cbde397e793129ee10e3edb81a2852cc142a0c847b3dcdfee282f02387c719762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 8,
+        "title": "TAPABOMBI",
+        "currentPrice": 9900,
+        "oldPrice": 12375,
+        "description": "Oferta especial en tapabombis",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/ca370896e6d689b4d4f7aaf9d279628324b4c071d77bc220c0014b1cd185743119762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 9,
+        "title": "LUZ MATE MATEANDO",
+        "currentPrice": 7900,
+        "oldPrice": 9875,
+        "description": "Oferta especial en luces para mate",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/6fa49b3031605e34af701ecce85d14c924fef0fad8a801d6211f8d32a45a26c319762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 10,
+        "title": "PICO CEBADOR STANLEY",
+        "currentPrice": 15990,
+        "oldPrice": 21990,
+        "description": "Oferta especial en picos cebadores Stanley",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/ff8da0b8a56caf1d2c3faf84cbb374382407f2d1cdfab246d1eecd91b69f86a919762.jpeg",
+        "category": "accesorios"
+    },
+    {
+        "id": 11,
+        "title": "Despolvillador",
+        "currentPrice": 14990,
+        "oldPrice": null,
+        "description": "Oferta especial en despolvilladores",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/88af0104b808bff12aa2b64327985e168b51bb94497e687d48b24145d9c66eb419762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 12,
+        "title": "PORTAMATE RUTERO MARRÓN",
+        "currentPrice": 32900,
+        "oldPrice": 41125,
+        "description": "Oferta especial en portamates marrones",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/1d1f52105a8d1085ff535354aa46508b6046ba6bb003b450e253d7eab39c8d6119762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 13,
+        "title": "TAPAMATE",
+        "currentPrice": 11900,
+        "oldPrice": 14875,
+        "description": "Oferta especial en tapamates",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/214c932c2f89c377cd3ac9477f9d6a0209b1412f850203725589f968b5ce62c519762.jpg",
+        "category": "accesorios"
+    },
+    {
+        "id": 14,
+        "title": "ALMOHADA MATERA",
+        "currentPrice": 74990,
+        "oldPrice": 89990,
+        "description": "Oferta especial en almohadas materas",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/0fb6f0a02bda0461ce4a1a417cbffa65c1f1eea85c9a5e62b308d24af2be316e19762.jpg",
+        "category": "accesorios"
+    }
+]

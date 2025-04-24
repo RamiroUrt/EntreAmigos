@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "title": "SET CAMIONERO DE ALGARROBO + TERMO MEDIA MANIJA + BOMBILLA",
+        "currentPrice": 49990,
+        "oldPrice": 62488,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/3945f6308631a40c38fb6eccfa5333039a825f300b1cf8cbb5bce616ce4f145e19762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 2,
+        "title": "SET MEGACOMPLETO OUTDOOR - CON IMPERIAL -",
+        "currentPrice": 161990,
+        "oldPrice": null,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/0573daf1cccd984f3aee1648ba6e41110838b9b34cfca6c11ed71409aec1edb619762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 3,
+        "title": "SET MEGACOMPLETO OUTDOOR -CON CAMIONERO-",
+        "currentPrice": 141990,
+        "oldPrice": 166990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/ba387557244e49dff1adf6d84a7689c6232019b36b8a71681227cd6ac0feb4a119762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 4,
+        "title": "SET MEGACOMPLETO OUTDOOR -CON MATE ALGARROBO-",
+        "currentPrice": 123990,
+        "oldPrice": 145990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/55616935dc5c0ff113abd833744e50005e82df0d2fc8f1c9c66b387ee836729b19762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 5,
+        "title": "SET MEGACOMPLETO OUTDOOR -CON TORPEDO-",
+        "currentPrice": 141990,
+        "oldPrice": 166990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/1cf47720f0ad2f310a28dd1bc6af8646cc390fac078f003a3db6a31daf0cd08119762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 6,
+        "title": "SET MATERO MEGACOMPLETO MATEANDO IMPERIAL",
+        "currentPrice": 155990,
+        "oldPrice": null,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/68cfc45867e93f66930233ce46e4cba235d7a5030a5c6418dc4683ffa4ef1efc19762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 7,
+        "title": "SET MATERO MEGACOMPLETO MATEANDO - CON TORPEDO-",
+        "currentPrice": 137990,
+        "oldPrice": 162990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/0f8220727174563221c576605ea733e3fd50d2c80e714b46a83a2ed77601405119762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 8,
+        "title": "SET TERMO STANLEY MATE SYSTEM 800 ml Rosa",
+        "currentPrice": 209000,
+        "oldPrice": null,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/d4c396f5498d4f98f30ac404c76062c383b0a0d2a1331b689b3c36e5b8fa139219762.png",
+        "category": "set"
+    },
+    {
+        "id": 9,
+        "title": "SET MEGACOMPLETO OUTDOOR -CON MATE ACÉRO TÉRMICO-",
+        "currentPrice": 123990,
+        "oldPrice": 145990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/cf7bda029a62aab3c7460dc79c3a369e0942645e2a21d7731357aa444c807ee419762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 10,
+        "title": "SET DE MATE TORPEDO PREMIUM + TERMO MEDIA MANIJA + BOMBILLA PICO LORO",
+        "currentPrice": 67990,
+        "oldPrice": 84990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/1480545d855ba7fcdf71613c3137d3f48d50740ef96ba8e911aa8d21bc44810d19762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 11,
+        "title": "SET DE MATE ACERO + TERMO MEDIA MANIJA",
+        "currentPrice": 49990,
+        "oldPrice": 66654,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/86978aff550d3d17292027bc0621c26c8b99ba53816ece21ff8bd004911cadc219762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 12,
+        "title": "SET MATERO CON CAMIONERO PREMIUM - RIVER PLATE",
+        "currentPrice": 74990,
+        "oldPrice": 93990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/93f1a43f6c187e2e6ed82800747f5d2a89b7fbe23f8bbfd9933717ebf339e66819762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 13,
+        "title": "SET MATERO CON CAMIONERO PREMIUM - BOCA JUNIORS",
+        "currentPrice": 74990,
+        "oldPrice": 93990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/7c19049a305bc4ed583d7e6feedf62da6d03ebe5ee3c189606d8ddda234af23d19762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 14,
+        "title": "SET MATE CAMIONERO + TERMO MEDIA MANIJA + BOMBILLA PICO LORO",
+        "currentPrice": 68990,
+        "oldPrice": 86990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/8bbad025024f800f3ca19e13c8666569ef8382a21809a0b58cd2a065118687ea19762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 15,
+        "title": "SET DE MATE IMPERIAL + BOMBILLA + TERMO MEDIA MANIJA",
+        "currentPrice": 94990,
+        "oldPrice": 118738,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/3050cffbc7e067e0980c864ed1d2378db5d06b68ba76e77962fe9a8eb564949319762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 16,
+        "title": "SET MATERO MEGACOMPLETO MATEANDO -CON CAMIONERO-",
+        "currentPrice": 140990,
+        "oldPrice": 165990,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/20a182640281672119821895281284f4459b8a42dc3e6e11e7dccb04bb75a18419762.jpeg",
+        "category": "set"
+    },
+    {
+        "id": 17,
+        "title": "SET ENCERADO: IMPERIAL ENCERADO + TERMO MEDIA MANIJA + BOMBILLA",
+        "currentPrice": 64990,
+        "oldPrice": 99985,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/bd057b21dfa3c451b91e921a3fc379b9188bed3d4375618d54d701c7a74caff219762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 18,
+        "title": "SET MATERO RÚSTICO MATE + TERMO + BOMBILLA",
+        "currentPrice": 64990,
+        "oldPrice": 99985,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/7ddf07f5551a953dcc7d017141541a6d4cf5add0b371e82eda6cb511836ebffc19762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 19,
+        "title": "SET MATERO MUU - STANLEY",
+        "currentPrice": 209000,
+        "oldPrice": 220000,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/31bda2f748c30c6cc05a94eaf62d14397db5ac5e4d29d05406d9c362e063174519762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 20,
+        "title": "SET MATE LUXURY - STANLEY POLAR",
+        "currentPrice": 184000,
+        "oldPrice": 230000,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/36ebd6f745252384bae269a2be134fd6b55dc1c8e802fd31da1806d6211c70ad19762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 21,
+        "title": "SET CROCO DELUXE - STANLEY",
+        "currentPrice": 199000,
+        "oldPrice": 210589,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/11a7271be2da28831813812f259b272a8f067b3876e3b21c021dfd021c756d5819762.jpg",
+        "category": "set"
+    },
+    {
+        "id": 22,
+        "title": "SET MATE LUXURY - STANLEY MATESYSTEM",
+        "currentPrice": 189000,
+        "oldPrice": 211250,
+        "description": "",
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/5582b5357b1f9acdda0195bd4d7df64dabcdebcbe32256b3db3bceee9ca58a8319762.jpg",
+        "category": "set"
+    }
+]

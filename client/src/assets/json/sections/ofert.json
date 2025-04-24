@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "title": "2X1 MATE CAMIONERO DE ALGARROBO",
+    "currentPrice": 38900,
+    "oldPrice": null,
+    "description": "Oferta especial en mates de algarrobo",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/8ae843f6aa91ed5909ebfb6efef65712c02c34aaa30311b33541ce7eda69dc2719762.jpg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 2,
+    "title": "MATE CAMIONERO DE ALGARROBO PERSONALIZADO",
+    "currentPrice": 29990,
+    "oldPrice": 49983,
+    "description": "Mates personalizados para ti",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/8402bf563c5451e2cfe30791904333e2308ab4fc2a44078af0394d102e0d58ea19762.jpeg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 3,
+    "title": "MATE CAMIONERO PREMIUM PERSONALIZADO",
+    "currentPrice": 44900,
+    "oldPrice": 64143,
+    "description": "Mates premium de alta calidad",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/c1e79259a9fecf541729ffad39b7d21563c1c4a7b2cfc47630090fbc8216229e19762.jpg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 4,
+    "title": "MATE IMPERIAL ALGARROBO RÚSTICO",
+    "currentPrice": 44990,
+    "oldPrice": 69216,
+    "description": "Diseño rústico con acabados impecables",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/ee06090a8cf2776a4e3d01b66989245ff4d144f90a35999ed3af1aff1507963719762.jpg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 5,
+    "title": "2x1 MATE CAMIONERO DE CALABAZA PREMIUM",
+    "currentPrice": 57120,
+    "oldPrice": null,
+    "description": "Aprovecha la oferta 2x1",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/ebb90ce6b85c8e7ec8ee12f0452b2c0878af4ff1dc2f1a7c0ab75e54d6e17a6719762.jpg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 6,
+    "title": "Mate Imperial PREMIUM (guarda ABSTRACTA)",
+    "currentPrice": 64000,
+    "oldPrice": 75295,
+    "description": "Estilo premium con guarda abstracta",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/736501fac765452ef414fbd21340f75566c956b4b2d832fcd8c0ffbe364bde7b19762.jpeg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 7,
+    "title": "MATE CAMIONERO DE ALGARROBO",
+    "currentPrice": 24990,
+    "oldPrice": 41650,
+    "description": "Diseño clásico y durable",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/1dfc9ea7d71a4dafaf93691cbf438467df067af300d665d77507465bce396eab19762.jpg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 8,
+    "title": "SET CAMIONERO DE ALGARROBO + TERMO MEDIA MANIJA + BOMBILLA",
+    "currentPrice": 49990,
+    "oldPrice": 62488,
+    "description": "Set completo para disfrutar",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/3945f6308631a40c38fb6eccfa5333039a825f300b1cf8cbb5bce616ce4f145e19762.jpeg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 9,
+    "title": "MATE TORPEDO PREMIUM",
+    "currentPrice": 38990,
+    "oldPrice": 51990,
+    "description": "Diseño compacto y elegante",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/7bbd88a57bd3f2f5109e2cfbae7e252a0f242371126c3dc62979e2e356f19ab619762.jpg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+    "id": 10,
+    "title": "MATE IMPERIAL RÚSTICO PERSONALIZADO",
+    "currentPrice": 49990,
+    "oldPrice": 76908,
+    "description": "Personalizable y rústico",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/0e53dd4e63daee5c0b81e6524527b4f14da40867409bcefdad7d1edcf8efbb5419762.jpg",
+    "category": "Ofertas",
+    "seccion": "Ofertas"
+  },
+  {
+      "id": 11,
+      "title": "MOCHILA MATEANDO OUTDOOR",
+      "currentPrice": 69900,
+      "oldPrice": 93200,
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/e281b6a5d62fb3533de1abfb073929a0243928c0abc637c8e747c967dc4cbe5819762.jpeg",
+      "category": "Ofertas",
+      "seccion": "Ofertas"
+    },
+    {
+      "id": 12,
+      "title": "MATE IMPERIAL DELUXE",
+      "currentPrice": 79990,
+      "oldPrice": 99988,
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/db40dbff11da303aa976cd297f69bb89ecda14cc41edbf543cca6dd3f87fc33d19762.jpeg",
+      "category": "Ofertas",
+      "seccion": "Ofertas"
+    },
+    {
+      "id": 13,
+      "title": "2X1 MATE CAMIONERO DE ALGARROBO",
+      "currentPrice": 38900,
+      "oldPrice": null,
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/8ae843f6aa91ed5909ebfb6efef65712c02c34aaa30311b33541ce7eda69dc2719762.jpg",
+      "category": "Ofertas",
+      "seccion": "Ofertas"
+    }
+]

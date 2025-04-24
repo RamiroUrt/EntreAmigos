@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "MATE CAMIONERO DE ALGARROBO PERSONALIZADO",
+    "currentPrice": 29990,
+    "oldPrice": 49983,
+    "description": "Mate camionero de algarrobo personalizado con grabado a elección.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/8402bf563c5451e2cfe30791904333e2308ab4fc2a44078af0394d102e0d58ea19762.jpeg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 2,
+    "title": "MATE CAMIONERO PREMIUM PERSONALIZADO",
+    "currentPrice": 44900,
+    "oldPrice": 64143,
+    "description": "Mate camionero premium con detalles personalizados.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/c1e79259a9fecf541729ffad39b7d21563c1c4a7b2cfc47630090fbc8216229e19762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 3,
+    "title": "MATE IMPERIAL ALGARROBO RÚSTICO",
+    "currentPrice": 44990,
+    "oldPrice": 69216,
+    "description": "Mate imperial rústico de algarrobo con acabado artesanal.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/ee06090a8cf2776a4e3d01b66989245ff4d144f90a35999ed3af1aff1507963719762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 4,
+    "title": "2x1 MATE CAMIONERO DE CALABAZA PREMIUM",
+    "currentPrice": 57120,
+    "oldPrice": null,
+    "description": "Pack de dos mates camioneros de calabaza premium.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/ebb90ce6b85c8e7ec8ee12f0452b2c0878af4ff1dc2f1a7c0ab75e54d6e17a6719762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 5,
+    "title": "MATE IMPERIAL PREMIUM (guarda ABSTRACTA)",
+    "currentPrice": 64000,
+    "oldPrice": 75295,
+    "description": "Mate imperial premium con diseño de guarda abstracta.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/736501fac765452ef414fbd21340f75566c956b4b2d832fcd8c0ffbe364bde7b19762.jpeg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 6,
+    "title": "MATE CAMIONERO DE ALGARROBO",
+    "currentPrice": 24990,
+    "oldPrice": 41650,
+    "description": "Mate camionero clásico de algarrobo con gran durabilidad.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/1dfc9ea7d71a4dafaf93691cbf438467df067af300d665d77507465bce396eab19762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 7,
+    "title": "SET CAMIONERO DE ALGARROBO + TERMO MEDIA MANIJA + BOMBILLA",
+    "currentPrice": 49990,
+    "oldPrice": 62488,
+    "description": "Set completo con mate camionero, termo y bombilla.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/3945f6308631a40c38fb6eccfa5333039a825f300b1cf8cbb5bce616ce4f145e19762.jpeg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 8,
+    "title": "MATE TORPEDO PREMIUM",
+    "currentPrice": 38990,
+    "oldPrice": 51990,
+    "description": "Mate torpedo premium con diseño ergonómico y elegante.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/7bbd88a57bd3f2f5109e2cfbae7e252a0f242371126c3dc62979e2e356f19ab619762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 9,
+    "title": "MATE IMPERIAL RÚSTICO PERSONALIZADO",
+    "currentPrice": 49990,
+    "oldPrice": 76908,
+    "description": "Mate imperial rústico con opción de personalización.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/0e53dd4e63daee5c0b81e6524527b4f14da40867409bcefdad7d1edcf8efbb5419762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 10,
+    "title": "MATE ACERO MATEANDO NEGRO",
+    "currentPrice": 24990,
+    "oldPrice": 34990,
+    "description": "Mate de acero inoxidable en color negro, resistente y elegante.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/c5bd593ac30fc884cc14ae79207c435b05b26d01f372fe84c316c5974c124d8719762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 11,
+    "title": "MATE ACERO MATEANDO BLANCO",
+    "currentPrice": 24990,
+    "oldPrice": 34990,
+    "description": "Mate de acero inoxidable en color blanco con diseño moderno.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/f621d2adc71e9bc560413d4cfa839281864ba03eb866ce6d119ce40460f3a18919762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 12,
+    "title": "MATE ACERO LUXURY + BOMBILLA DE REGALO",
+    "currentPrice": 44900,
+    "oldPrice": 59867,
+    "description": "Mate de acero luxury con bombilla de regalo.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/b0892499c879ae5346391e01d9747871b1a14228e0881d4464ba3ec398e7480c19762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 13,
+    "title": "MATE ACERO LUXURY BLANCO + BOMBILLA DE REGALO",
+    "currentPrice": 44900,
+    "oldPrice": 59867,
+    "description": "Mate de acero luxury en color blanco con bombilla incluida.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/aad737de55411f5b37ef489b36ef327cfd2646cc7f9b4928a46b019e00e4a15c19762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 14,
+    "title": "MATE IMPERIAL DELUXE CROCO NEGRO",
+    "currentPrice": 59900,
+    "oldPrice": 99834,
+    "description": "Mate imperial deluxe con textura croco en color negro.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/b17cc7985bb475e079add89e0eb236574f1539d3b7d8500533efa06d31f87fd619762.jpg",
+    "categoria": "recomendados"
+  },
+  {
+    "id": 15,
+    "title": "MATE CAMIONERO URUGUAYO PREMIUM",
+    "currentPrice": 39990,
+    "oldPrice": 57129,
+    "description": "Mate camionero uruguayo de alta calidad y diseño tradicional.",
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/640a7d9156761829cbe978ff38b32af3a44a0cbbb9f93dd8191ddc1ff8ed980019762.jpeg",
+    "categoria": "recomendados"
+  },
+  {
+      "id": 16,
+      "title": "MATE CAMIONERO PREMIUM",
+      "currentPrice": 38990,
+      "oldPrice": 55990,
+      "description": "Mate camionero premium con diseño elegante y cómodo agarre.",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/f62c648f6c403b1e5d2b7a9dfb5a2e5675a7d81e5939351b12f1c1f5b9c1a4c319762.jpg",
+      "categoria": "recomendados"
+    },
+    {
+      "id": 17,
+      "title": "MATE IMPERIAL LUXURY",
+      "currentPrice": 59990,
+      "oldPrice": 84990,
+      "description": "Mate imperial luxury con acabados premium y detalles sofisticados.",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/912a8c7bdf91c3e0e66d5ff92a69c7f4bb7d8136742a4e6e5e32e1bfb3d5289b19762.jpg",
+      "categoria": "recomendados"
+    },
+    {
+      "id": 18,
+      "title": "SET MATERO COMPLETO PREMIUM",
+      "currentPrice": 79990,
+      "oldPrice": 109990,
+      "description": "Set matero completo que incluye mate, termo, bombilla y porta yerba.",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/4d873a476d1b76e2e2d8f46f52f3b7f1986e62b9ab4b1f93f1c7a8d4f8c8a3e319762.jpg",
+      "categoria": "recomendados"
+    }
+]

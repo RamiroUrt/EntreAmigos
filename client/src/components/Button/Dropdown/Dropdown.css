@@ -1,0 +1,103 @@
+
+.select {
+    width: fit-content;
+    cursor: pointer;
+    position: relative;
+    transition: 300ms;
+    color: #badf92;
+    overflow: visible !important;
+  }
+  
+  .selected {
+    color: #badf92;
+    background-color: #ffffff;
+    padding: 5px;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    position: relative;
+    z-index: 100;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: visible !important;
+  }
+  
+  .arrow {
+    position: relative;
+    right: 0px;
+    height: 20px;
+    transform: rotate(-90deg);
+    width: 25px;
+    fill: #228b22;
+    transition: 300ms;
+  }
+  
+  .options {
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #ffffff;
+    color: #badf92;
+    top: 10px;
+    opacity: 0;
+    position: relative;
+    transition: 300ms;
+    z-index: 3323;
+  }
+  
+  .select:hover > .options {
+    opacity: 1;
+    top: 0;
+  }
+  
+  .select:hover > .selected .arrow {
+    transform: rotate(0deg);
+  }
+  
+  .option {
+    border-radius: 5px;
+    padding: 5px;
+    transition: 10ms;
+    background-color: #ffffff;
+    color: #badf92;
+    width: 150px;
+    font-size: 15px;
+  }
+  .option:hover {
+    background-color: #228b22;
+  }
+  
+  .options input[type="radio"] {
+    display: none;
+  }
+  
+  .options label {
+    display: inline-block;
+  }
+  .options label::before {
+    content: attr(data-txt);
+  }
+  
+  .options input[type="radio"]:checked + label {
+    display: none;
+  }
+  
+  .options input[type="radio"]#all:checked + label {
+    display: none;
+  }
+  
+  .select:has(.options input[type="radio"]#all:checked) .selected::before {
+    content: attr(data-default);
+  }
+  .select:has(.options input[type="radio"]#option-1:checked) .selected::before {
+    content: attr(data-one);
+  }
+  .select:has(.options input[type="radio"]#option-2:checked) .selected::before {
+    content: attr(data-two);
+  }
+  .select:has(.options input[type="radio"]#option-3:checked) .selected::before {
+    content: attr(data-three);
+  }
+  
