@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { gsap } from "gsap";
 import LogoPNG from "../../../assets/img/Logo.png";
 import Cart from '../../../assets/svg/cart.svg';
-import CartContainer from "../../Cart/CartContainer";
+import CartContainer from "../../cart/CartContainer";
 import "./Nav.css";
 
 const Nav = ({ opacity }) => {
