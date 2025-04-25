@@ -1,11 +1,11 @@
 import CardProduct from "./Card/CardProduct"
 
-import Mate from '../../public/img/sections/matePortada.jpeg'
-import Bombilla from '../../public/img/sections/BombillaPortada.jpg' 
-import StaleyPortada from '../../public/img/sections/StaleyPortada.jpg'
-import AccesoriosPortada from '../../public/img/sections/AccesoriosPortada.jpg'
-import YerberaPortada from '../../public/img/sections/YerberaPortada.jpeg'
-import TermosPortada from '../../public/img/sections/TermosPortada.jpeg'
+import Mate from '../assets/img/sections/matePortada.jpeg'
+import Bombilla from '../assets/img/sections/BombillaPortada.jpg' 
+import StaleyPortada from '../assets/img/sections/StaleyPortada.jpg'
+import AccesoriosPortada from '../assets/img/sections/AccesoriosPortada.jpg'
+import YerberaPortada from '../assets/img/sections/YerberaPortada.jpeg'
+import TermosPortada from '../assets/img/sections/TermosPortada.jpeg'
 const SectionProd = () => {
   return (
     <>

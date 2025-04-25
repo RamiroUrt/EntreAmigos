@@ -1,5 +1,5 @@
 import Button from '../../Button/Button';
-import Logo from '../../../../public/img/Logo.png' 
+import Logo from '../../../assets/img/Logo.png' 
 import Facebook from '../../../assets/svg/facebook.com.svg'
 import Whatsapp from '../../../assets/svg/whatsapp.com.svg'
 import Instagram from '../../../assets/svg/instagram.com.svg'

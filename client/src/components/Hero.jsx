@@ -3,7 +3,7 @@ import Cebado from "../assets/video/Cebar.mp4";
 import Button from "./Button/Button";
 import ModelMate from "./layout/ModelMate";
 import Nav from "../components/layout/Nav/Nav";
-import LogoPNG from "../../public/img/logoPng.png";
+import LogoPNG from "../assets/img/logoPng.png";
 
 const Hero = () => {
   const videoRef = useRef(null);

@@ -6,13 +6,13 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/effect-fade';
 
-import Pic1 from '../../../public/img/Slider/1.webp';
-import Pic2 from '../../../public/img/Slider/2.webp';
-import Pic3 from '../../../public/img/Slider/3.webp';
-import Pic4 from '../../../public/img/Slider/4.png';
-import Pic5 from '../../../public/img/Slider/5.png';
-import Pic6 from '../../../public/img/Slider/6.png';
-import Pic7 from '../../../public/img/Slider/7.webp'
+import Pic1 from '../../assets/img/Slider/1.webp';
+import Pic2 from '../../assets/img/Slider/2.webp';
+import Pic3 from '../../assets/img/Slider/3.webp';
+import Pic4 from '../../assets/img/Slider/4.png';
+import Pic5 from '../../assets/img/Slider/5.png';
+import Pic6 from '../../assets/img/Slider/6.png';
+import Pic7 from '../../assets/img/Slider/7.webp'
 
 const SlidePic = () => {
   return (

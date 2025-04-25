@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { gsap } from "gsap";
-import LogoPNG from "../../../../public/img/logo.png";
+import LogoPNG from "../../../assets/img/logo.png";
 import Cart from '../../../assets/svg/cart.svg';
 import CartContainer from "../../Cart/CartContainer";
 import "./Nav.css";

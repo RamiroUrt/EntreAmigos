@@ -1,6 +1,6 @@
 
 import Button from "../components/Button/Button"
-import Logo from '/public/img/404Logo.png'
+import Logo from '../assets/img/404Logo.png'
 const Error404 = () => {
   return (
     <>
