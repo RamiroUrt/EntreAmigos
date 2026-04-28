@@ -26,7 +26,7 @@ const [preferenceId, setPreferenceId] = useState(null); // Estado para almacenar
     // Función para crear la preferencia de pago en el backend
     const createPreference = async () => {
       try {
-        const response = await fetch('http://localhost:3000/create-preference', {
+        const response = await fetch('/api/create-preference', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
